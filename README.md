@@ -1,6 +1,4 @@
-# currencyNBP
-Shows the bid and ask prices of selected currencies for PLN.
-
+# currency exchange
 Enter the iso-4217 names of currencies you want to check out.
 
 For example: 
